@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tanpuhedu&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=50&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tanpuhnpt&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=50&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
