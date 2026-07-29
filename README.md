@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm based in HCMC, Vietnam<br><br>- 🎓 I'm a final-year student and seeking an entry-level backend position<br>- 📚 Currently learning Spring Boot and System Design<br>- 🐱 I’m also a cat person</p>
+<p align="left">I'm based in HCMC, Vietnam<br><br>- 🎓 I'm a final-year student and seeking an entry-level backend position<br>- 📚 Currently learning Spring Boot, Design Pattern and a little bit of System Design<br>- 🐱 I’m also a cat person</p>
 
 ###
 
